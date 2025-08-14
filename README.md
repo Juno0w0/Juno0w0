@@ -2,28 +2,24 @@
 ![banner](https://images.squarespace-cdn.com/content/v1/551a19f8e4b0e8322a93850a/e9c07c88-5ccb-4b68-907e-dee74fc378e9/Scene_1.gif?format=2500w)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=900&color=8562D0&center=true&vCenter=true&width=1200&lines=!Hi+stranger!!+Juno+say+helo!+😎;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=900&color=00ff00&center=true&vCenter=true&width=1200&lines=Hacking+is+not+about+breaking+systems+it's+about+understanding+them+😎;" alt="Typing SVG" />
 </p>
+
 <h2 align="center">
 💻Carbon-based lifeform and code💻
 <br>🐧60% Linux, 40% human🐧</br></h2>
 
-<div align="left">
-  <!-- Contador de visitas al perfil -->
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Juno0w0&color=blueviolet&style=for-the-badge">
-
-  <!-- Estado general (puedes poner Discord u otra plataforma) -->
-  <img src="https://api.statusbadges.me/badge/status/529051044127309824?simple=true&style=for-the-badge" alt="status">
-
-  <!-- Lo que estás reproduciendo (ej. música o juegos) -->
-  <img src="https://api.statusbadges.me/badge/playing/529051044127309824?style=for-the-badge" alt="playing">
-
-  <!-- Spotify -->
-  <a href="https://api.statusbadges.me/openspotify/529051044127309824" target="_blank" rel="noopener">
-    <img src="https://api.statusbadges.me/badge/spotify/529051044127309824?style=for-the-badge" alt="spotify">
-  </a>
-
-</div>
+<p align="center">
+   
+  <img src="https://img.shields.io/badge/OS-Kali_Linux-black?style=for-the-badge&logo=kali-linux&logoColor=white">
+ <img src="https://img.shields.io/badge/WM-Bspwm-violet?style=for-the-badge&logo=bspwm&logoColor=white">
+  <img src="https://img.shields.io/badge/Shell-Zsh-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white">
+  <img src="https://img.shields.io/badge/Editor-Neovim-green?style=for-the-badge&logo=neovim&logoColor=white">
+  <img src="https://img.shields.io/badge/Data Base-sql-skyblue?style=for-the-badge&logo=sql&logoColor=white">
+  <img src="https://img.shields.io/badge/Script-python-blue?style=for-the-badge&logo=python&logoColor=white">
+</p>
+<!--- pruebas--->
+<!--- ggggggg--->
 
 
 ```
@@ -50,27 +46,26 @@
                                               .'
                                                .
 ```
+## 🎨 About me
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/CTF-FF0000?logo=flag&logoColor=white" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=900&color=8562D0&center=true&vCenter=true&width=1200&lines=!Hi+stranger!!+Juno+say+helo!+😎;" alt="Typing SVG" />
 </p>
 
-![Arch Linux](https://img.shields.io/badge/OS-BlackArch_Linux-blue?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Hyprland](https://img.shields.io/badge/WM-Hyprland-blueviolet?style=for-the-badge&logo=wayland&logoColor=white)
-<img src="https://img.shields.io/badge/Shell-Zsh-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white">
-<img src="https://img.shields.io/badge/Editor-Neovim-green?style=for-the-badge&logo=neovim&logoColor=white">
+- 🎮 VideoGames LOVER ❤️
+- 📚 Fire and Blood 🔥🐉
+- 🌱 Pentester in progress and programmer dummy ehehehehe 
+- I like anime, CTFs, and neon colors. If you like it too, please send a pull request. 🤪🤪
 
-<!--
-Here are some ideas to get you started:
+## 🌟 Proyectos destacados
+---
+## 🤓 STATS 🧠 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <img alt="Profile ACtions" src="https://github-readme-stats.vercel.app/api?username=Juno0w0&show_icons=true&theme=dark"> 
+ <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juno0w0&layout=compact&theme=radical">
+ 
+## 📫 Contacto
+[![Email](https://img.shields.io/badge/Email-fgonzalezjrb%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:fgonzalezjrb@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-JunoGG-blue?style=fllat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junogg/)
+
+
