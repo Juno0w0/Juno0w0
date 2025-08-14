@@ -55,6 +55,10 @@
 - 📚 Fire and Blood 🔥🐉
 - 🌱 Pentester in progress and programmer dummy ehehehehe 
 - I like anime, CTFs, and neon colors. If you like it too, please send a pull request. 🤪🤪
+- I'm a cat with internet access 🐱
+
+ <img src="https://i.pinimg.com/736x/4f/01/67/4f0167d0418ad8032247abe3d46a25bf.jpg" alt="Descripción" width="300" height="300">
+
 
 ## 🌟 featured projects
 ---
