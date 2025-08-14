@@ -56,14 +56,14 @@
 - 🌱 Pentester in progress and programmer dummy ehehehehe 
 - I like anime, CTFs, and neon colors. If you like it too, please send a pull request. 🤪🤪
 
-## 🌟 Proyectos destacados
+## 🌟 featured projects
 ---
 ## 🤓 STATS 🧠 
 
  <img alt="Profile ACtions" src="https://github-readme-stats.vercel.app/api?username=Juno0w0&show_icons=true&theme=dark"> 
  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juno0w0&layout=compact&theme=radical">
  
-## 📫 Contacto
+## 📫 Contact
 [![Email](https://img.shields.io/badge/Email-fgonzalezjrb%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:fgonzalezjrb@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-JunoGG-blue?style=fllat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junogg/)
