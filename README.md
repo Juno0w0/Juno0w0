@@ -1,5 +1,4 @@
-![joke](https://imgs.search.brave.com/5BvMm6aR3-mjMpbyO4ZG6qBH-MpHEMgCdRQKRwHtruo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9mb25k/b3NtaWwuY28vZm9u/ZG8vOTczMC5qcGc)
-<!--
+
 ![banner](https://images.squarespace-cdn.com/content/v1/551a19f8e4b0e8322a93850a/e9c07c88-5ccb-4b68-907e-dee74fc378e9/Scene_1.gif?format=2500w)
 
 <p align="center">
