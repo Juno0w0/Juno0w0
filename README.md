@@ -62,7 +62,7 @@
 
 ## 🌟 featured projects
 
-**[CyberLearn](https://github.com/juno0w0/CyberLearn)**:A web page to learn about cibersecurity 🤓
+- **[CyberLearn](https://github.com/juno0w0/CyberLearn)**:A web page to learn about cibersecurity 🤓
 
 ---
 ## 🤓 STATS 🧠 
