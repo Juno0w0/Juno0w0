@@ -65,9 +65,10 @@
 - **[CyberLearn](https://github.com/juno0w0/CyberLearn)**:A web page to learn about cibersecurity 🤓
 
 ---
-## 🤓 STATS 🧠 
-
- <img alt="Profile ACtions" src="https://github-readme-stats.vercel.app/api?username=Juno0w0&show_icons=true&theme=dark"> 
+## 🤓 STATS 🧠  
+ ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=Juno0w0&show_icons=true&theme=radical)
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juno0w0&layout=compact&theme=radical)
  <!--<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juno0w0&layout=compact&theme=radical">-->
  
 ## 📫 Contact
